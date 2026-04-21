@@ -1,4 +1,4 @@
----
+<img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/f98419d4-d9d5-47aa-9776-5f0e83f24e86" /><img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/bf20659f-7273-466e-a8fa-bc15a29a0248" />---
 
 # 🐦 Flappy Bird 2.0 - JavaScript
 
@@ -11,7 +11,7 @@
 ##  Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cffa3f75-c569-429e-a6f8-f426f109d326" width="260">
+  <img src="https://prodigits.co.uk/pthumbs/screensavers/down/misc/buildings_7cqptdcw.gif" width="260">
 </p>
 
 ---
