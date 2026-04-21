@@ -1,5 +1,3 @@
-<img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/f98419d4-d9d5-47aa-9776-5f0e83f24e86" /><img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/bf20659f-7273-466e-a8fa-bc15a29a0248" />---
-
 # 🐦 Flappy Bird 2.0 - JavaScript
 
 <p align="center">
