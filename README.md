@@ -88,7 +88,7 @@ index.html
 
 ## Mecânica do jogo
 
-* O a plane sofre ação constante da gravidade
+* O plane sofre ação constante da gravidade
 * O jogador controla o movimento com impulsos (pulo)
 * Os predios são gerados com alturas aleatórias
 * A pontuação aumenta ao passar pelos obstáculos
