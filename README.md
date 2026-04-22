@@ -1,4 +1,4 @@
-# 🛫 Flappy Bird 2.0 - JavaScript 
+# 🛫 Flappy Bird 2.0 - JavaScript
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5a08fcee-2227-4b97-b108-26b88c76dc59" width="200">
